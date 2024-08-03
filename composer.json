@@ -13,12 +13,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "陈恺垣",
-            "email": "contact@chenky.com"
+            "name": "ajiader",
+            "email": "contact@ajiader.com"
         }
     ],
     "require": {
-        "mingyoung/dingtalk": "^2.0",
+        "ajiader/dingtalk": "^2.0",
         "illuminate/container": "^5.1|^6.0|^7.0|^8.0"
     },
     "require-dev": {
