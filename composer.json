@@ -1,5 +1,5 @@
 {
-    "name": "calchen/laravel-dingtalk",
+    "name": "ajiader/laravel-dingtalk",
     "description": "钉钉 SDK Laravel/Lumen 扩展包（Dingtalk SDK for Laravel/Lumen）",
     "keywords": [
         "laravel",
